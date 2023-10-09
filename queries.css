@@ -132,7 +132,7 @@
 	.main-img {
 		grid-column: 1/-1;
 		margin-bottom: 3rem;
-		background-image: url('/assets/images/image-web-3-mobile.jpg');
+		background-image: url('./assets/images/image-web-3-mobile.jpg');
 	}
 	.main-box--text {
 		grid-column: 1/-1;
